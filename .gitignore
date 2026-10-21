@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.git
+.github
+.pytest_cache
+*.md
+.venv
+venv/
+data/raw/*.csv
+data/processed/*.csv
+.DS_Store
+tests/
